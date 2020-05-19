@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# git stash list
+git stash list
+

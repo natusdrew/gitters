@@ -1,0 +1,3 @@
+#!/bin/sh
+
+git stash save --keep-index --include-untracked

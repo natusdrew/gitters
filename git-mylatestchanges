@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# show files changed
+git show --name-only $1

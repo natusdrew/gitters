@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# does a diff
+git stash show -p
+

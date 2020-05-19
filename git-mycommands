@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# show all custom commands
+ls | grep git

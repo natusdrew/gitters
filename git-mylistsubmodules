@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# list submodules 
+git config --list|egrep ^submodule

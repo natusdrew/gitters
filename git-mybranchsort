@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# branches
+# sort branches by date updated
+git branch --sort=committerdate
+
