@@ -1,3 +1,7 @@
+## Notice
+
+Merging this into git-sh to provide custom commands inside an interactive bash shell
+
 ## Make Commands Available from Path
 
 ```vim ~/.bash_profile```
