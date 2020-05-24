@@ -160,5 +160,11 @@ Lets say you want to make a command `git awesome` which takes one parameter and 
      echo ERROR: Cannot find the current branch!
    fi
    ```
+   
+## TODO
+
+Add default git setup
+1. Ignore swp files
+2. Use vim editor instead of nano
 
 <i>Credits and Inspiration</i> : [Extending Git: add a custom command](http://blog.santosvelasco.com/2012/06/14/extending-git-add-a-custom-command/)
