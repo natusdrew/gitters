@@ -26,7 +26,7 @@ All commands are namespaced with "my" in order to prevent conflicts with built-i
 2. [git-mycommands](#git-mycommands) - List all available custom commands
 3. [git-mylatestchanges](#git-mylatestchanges)
 4. [git-mypullallremote](#git-mypullallremote) - Pull all remote branches
-5. [git-mypush](#git-mypush) - Add and push all files
+5. [git-mypushall](#git-mypushall) - Add all files and push
 6. [git-mypushremote](#git-mypushremote)
 7. [git-myrefresh](#git-myrefresh) - Push local branch changes to remote branch after updating from it.
 8. [git-myreset](#git-myreset)

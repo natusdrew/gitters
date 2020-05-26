@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo "Enter commit comment:"
+read commit_comment
+
+git add .
+git commit -a -m "$commit_comment"
+git push
+
+
