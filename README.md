@@ -1,12 +1,14 @@
-## Notice
+## Setup
 
-Merging this into git-sh to provide custom commands inside an interactive bash shell
+Clone to your home directory (~/)
 
-## Make Commands Available from Path
+```git clone https://github.com/DiddoTools/gitters```
+
+## Add to your Bash Profiles
 
 ```vim ~/.bash_profile```
 
-```export PATH=$PATH:/var/www/git-refresh```
+```export PATH=$PATH:~/gitters```
 
 ## Show All Available Commands
 
