@@ -1,4 +1,12 @@
 #!/bin/sh
+PRG="$0"
 
-# show all custom commands
-ls | grep git
+# need this for relative symlinks
+while [ -h "$PRG" ] ; do
+  PRG=`readlink "$PRG"`
+done
+
+git_script_dir=`dirname "$PRG"`
+
+ls $git_script_dir | grep git\-
+
