@@ -163,6 +163,14 @@ Lets say you want to make a command `git awesome` which takes one parameter and 
    fi
    ```
    
+## Other Common Git Routines
+
+#### New Github Repo
+
+Unrelated history
+
+git pull origin main --allow-unrelated-histories
+   
 ## TODO
 
 Add default git setup
