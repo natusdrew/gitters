@@ -1,5 +1,6 @@
 #### What It Does
 
+Designed to be included as a Git Submodule. 
 Provide Custom Commands for Git (e.g. ```git mypushall```)
 
 ## Setup
