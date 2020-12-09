@@ -1,8 +1,12 @@
 ## Setup
 
+## Options 1
+
 Clone to your home directory (~/)
 
-```git clone https://github.com/DiddoTools/gitters```
+## Option 2
+
+Use as part of dotfiles
 
 ## Add to your Bash Profiles
 
