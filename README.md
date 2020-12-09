@@ -4,10 +4,6 @@
 
 Use as part of dotfiles
 
-## Alternative: Directly Install
-
-Clone to your home directory (~/)
-
 ## Add to your Bash Profiles
 
 ```vim ~/.bash_profile```
