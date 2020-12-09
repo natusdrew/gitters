@@ -1,6 +1,6 @@
 #### What It Does
 
-Provide Custom Commands for Git (e.g. git mypushall)
+Provide Custom Commands for Git (e.g. ```git mypushall```)
 
 ## Setup
 
