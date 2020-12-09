@@ -2,11 +2,11 @@
 
 ## Options 1
 
-Clone to your home directory (~/)
-
-## Option 2
-
 Use as part of dotfiles
+
+## Option 2 (Directly)
+
+Clone to your home directory (~/)
 
 ## Add to your Bash Profiles
 
