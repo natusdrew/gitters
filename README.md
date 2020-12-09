@@ -4,7 +4,7 @@ Provide Custom Commands for Git (e.g. ```git mypushall```)
 
 ## Setup
 
-```echo "export PATH=\$PATH:~/dotfiles" >> ~/.bash_profile```
+[Click Here](https://github.com/natesire/dotfiles)
 
 ## Show All Available Commands
 
