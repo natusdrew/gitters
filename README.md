@@ -4,9 +4,7 @@ Provide Custom Commands for Git (e.g. ```git mypushall```)
 
 ## Setup
 
-```vim ~/.bash_profile```
-
-```export PATH=$PATH:~/dotfiles```
+```echo "export PATH=\$PATH:~/dotfiles" >> ~/.bash_profile```
 
 ## Show All Available Commands
 
