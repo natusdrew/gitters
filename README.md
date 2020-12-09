@@ -1,10 +1,10 @@
 ## Setup
 
-## Options 1
+## Install as part of Dotfiles
 
 Use as part of dotfiles
 
-## Option 2 (Directly)
+## Alternative: Directly Install
 
 Clone to your home directory (~/)
 
