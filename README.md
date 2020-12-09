@@ -1,5 +1,3 @@
-## Setup
-
 ## Install as part of Dotfiles
 
 Use as part of dotfiles
@@ -8,7 +6,7 @@ Use as part of dotfiles
 
 ```vim ~/.bash_profile```
 
-```export PATH=$PATH:~/gitters```
+```export PATH=$PATH:~/dotfiles```
 
 ## Show All Available Commands
 
