@@ -1,8 +1,8 @@
-## Install as part of Dotfiles
+#### What It Does
 
-Use as part of dotfiles
+Provide Custom Commands for Git (e.g. git mypushall)
 
-## Add to your Bash Profiles
+## Setup
 
 ```vim ~/.bash_profile```
 
