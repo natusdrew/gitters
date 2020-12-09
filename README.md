@@ -3,9 +3,11 @@
 Designed to be included as a Git Submodule. 
 Provide Custom Commands for Git (e.g. ```git mypushall```)
 
-## Setup
+# Setup
 
 [Click Here](https://github.com/natesire/dotfiles)
+
+# Additional Info
 
 ## Show All Available Commands
 
