@@ -7,6 +7,10 @@ Provide Custom Commands for Git (e.g. ```git mypushall```)
 
 [Click Here](https://github.com/natesire/dotfiles)
 
+# Test If Working
+
+```git mycommands```
+
 # Additional Info
 
 ## Show All Available Commands
