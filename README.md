@@ -1,7 +1,7 @@
 #### What It Does
 
 Designed to be included as a Git Submodule. 
-Provide Custom Commands for Git (e.g. ```git mypushall```)
+Provide Custom Shortcuts for Git (e.g. ```git shortcuts-pushall```)
 
 # Setup
 
@@ -9,15 +9,15 @@ Provide Custom Commands for Git (e.g. ```git mypushall```)
 
 # Test If Working
 
-```git mycommands```
+```git shortcuts```
 
 # Additional Info
 
-## Show All Available Commands
+## Show All Available Shortcuts
 
-```git mycommands```
+```git shortcuts```
 
-All commands are namespaced with "my" in order to prevent conflicts with built-in git commands.
+All shortcuts are namespaced with "shortcuts-" in order to prevent conflicts with built-in git commands.
 
 ## Index
 
